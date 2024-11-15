@@ -32,3 +32,4 @@ D:\Educational & Miscellaneous\Programming\.Programming Advices\.Projects\Simple
 D:\Educational & Miscellaneous\Programming\.Programming Advices\.Projects\Simple Text Editor\obj\Debug\net8.0-windows\Simple Text Editor.pdb
 D:\Educational & Miscellaneous\Programming\.Programming Advices\.Projects\Simple Text Editor\obj\Debug\net8.0-windows\Simple Text Editor.genruntimeconfig.cache
 D:\Educational & Miscellaneous\Programming\.Programming Advices\.Projects\Simple Text Editor\obj\Debug\net8.0-windows\ref\Simple Text Editor.dll
+D:\Educational & Miscellaneous\Programming\.Programming Advices\.Projects\Simple Text Editor\obj\Debug\net8.0-windows\Simple Text Editor.sourcelink.json
