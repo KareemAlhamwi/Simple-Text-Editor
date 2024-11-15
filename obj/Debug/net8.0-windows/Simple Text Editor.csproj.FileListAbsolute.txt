@@ -1,0 +1,34 @@
+D:\Educational & Miscellaneous\Programming\.Programming Advices\C# Ls1\Projects\Simple Text Editor\bin\Debug\net8.0-windows\Simple Text Editor.exe
+D:\Educational & Miscellaneous\Programming\.Programming Advices\C# Ls1\Projects\Simple Text Editor\bin\Debug\net8.0-windows\Simple Text Editor.deps.json
+D:\Educational & Miscellaneous\Programming\.Programming Advices\C# Ls1\Projects\Simple Text Editor\bin\Debug\net8.0-windows\Simple Text Editor.runtimeconfig.json
+D:\Educational & Miscellaneous\Programming\.Programming Advices\C# Ls1\Projects\Simple Text Editor\bin\Debug\net8.0-windows\Simple Text Editor.dll
+D:\Educational & Miscellaneous\Programming\.Programming Advices\C# Ls1\Projects\Simple Text Editor\bin\Debug\net8.0-windows\Simple Text Editor.pdb
+D:\Educational & Miscellaneous\Programming\.Programming Advices\C# Ls1\Projects\Simple Text Editor\obj\Debug\net8.0-windows\Simple_Text_Editor.frmTextEditor.resources
+D:\Educational & Miscellaneous\Programming\.Programming Advices\C# Ls1\Projects\Simple Text Editor\obj\Debug\net8.0-windows\Simple Text Editor.csproj.GenerateResource.cache
+D:\Educational & Miscellaneous\Programming\.Programming Advices\C# Ls1\Projects\Simple Text Editor\obj\Debug\net8.0-windows\Simple Text Editor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Educational & Miscellaneous\Programming\.Programming Advices\C# Ls1\Projects\Simple Text Editor\obj\Debug\net8.0-windows\Simple Text Editor.AssemblyInfoInputs.cache
+D:\Educational & Miscellaneous\Programming\.Programming Advices\C# Ls1\Projects\Simple Text Editor\obj\Debug\net8.0-windows\Simple Text Editor.AssemblyInfo.cs
+D:\Educational & Miscellaneous\Programming\.Programming Advices\C# Ls1\Projects\Simple Text Editor\obj\Debug\net8.0-windows\Simple Text Editor.csproj.CoreCompileInputs.cache
+D:\Educational & Miscellaneous\Programming\.Programming Advices\C# Ls1\Projects\Simple Text Editor\obj\Debug\net8.0-windows\Simple Text Editor.dll
+D:\Educational & Miscellaneous\Programming\.Programming Advices\C# Ls1\Projects\Simple Text Editor\obj\Debug\net8.0-windows\refint\Simple Text Editor.dll
+D:\Educational & Miscellaneous\Programming\.Programming Advices\C# Ls1\Projects\Simple Text Editor\obj\Debug\net8.0-windows\Simple Text Editor.pdb
+D:\Educational & Miscellaneous\Programming\.Programming Advices\C# Ls1\Projects\Simple Text Editor\obj\Debug\net8.0-windows\Simple Text Editor.genruntimeconfig.cache
+D:\Educational & Miscellaneous\Programming\.Programming Advices\C# Ls1\Projects\Simple Text Editor\obj\Debug\net8.0-windows\ref\Simple Text Editor.dll
+D:\Educational & Miscellaneous\Programming\.Programming Advices\C# Ls1\Projects\Simple Text Editor\obj\Debug\net8.0-windows\Simple_Text_Editor.Properties.Resources.resources
+D:\Educational & Miscellaneous\Programming\.Programming Advices\.Projects\Simple Text Editor\bin\Debug\net8.0-windows\Simple Text Editor.exe
+D:\Educational & Miscellaneous\Programming\.Programming Advices\.Projects\Simple Text Editor\bin\Debug\net8.0-windows\Simple Text Editor.deps.json
+D:\Educational & Miscellaneous\Programming\.Programming Advices\.Projects\Simple Text Editor\bin\Debug\net8.0-windows\Simple Text Editor.runtimeconfig.json
+D:\Educational & Miscellaneous\Programming\.Programming Advices\.Projects\Simple Text Editor\bin\Debug\net8.0-windows\Simple Text Editor.dll
+D:\Educational & Miscellaneous\Programming\.Programming Advices\.Projects\Simple Text Editor\bin\Debug\net8.0-windows\Simple Text Editor.pdb
+D:\Educational & Miscellaneous\Programming\.Programming Advices\.Projects\Simple Text Editor\obj\Debug\net8.0-windows\Simple_Text_Editor.frmTextEditor.resources
+D:\Educational & Miscellaneous\Programming\.Programming Advices\.Projects\Simple Text Editor\obj\Debug\net8.0-windows\Simple_Text_Editor.Properties.Resources.resources
+D:\Educational & Miscellaneous\Programming\.Programming Advices\.Projects\Simple Text Editor\obj\Debug\net8.0-windows\Simple Text Editor.csproj.GenerateResource.cache
+D:\Educational & Miscellaneous\Programming\.Programming Advices\.Projects\Simple Text Editor\obj\Debug\net8.0-windows\Simple Text Editor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Educational & Miscellaneous\Programming\.Programming Advices\.Projects\Simple Text Editor\obj\Debug\net8.0-windows\Simple Text Editor.AssemblyInfoInputs.cache
+D:\Educational & Miscellaneous\Programming\.Programming Advices\.Projects\Simple Text Editor\obj\Debug\net8.0-windows\Simple Text Editor.AssemblyInfo.cs
+D:\Educational & Miscellaneous\Programming\.Programming Advices\.Projects\Simple Text Editor\obj\Debug\net8.0-windows\Simple Text Editor.csproj.CoreCompileInputs.cache
+D:\Educational & Miscellaneous\Programming\.Programming Advices\.Projects\Simple Text Editor\obj\Debug\net8.0-windows\Simple Text Editor.dll
+D:\Educational & Miscellaneous\Programming\.Programming Advices\.Projects\Simple Text Editor\obj\Debug\net8.0-windows\refint\Simple Text Editor.dll
+D:\Educational & Miscellaneous\Programming\.Programming Advices\.Projects\Simple Text Editor\obj\Debug\net8.0-windows\Simple Text Editor.pdb
+D:\Educational & Miscellaneous\Programming\.Programming Advices\.Projects\Simple Text Editor\obj\Debug\net8.0-windows\Simple Text Editor.genruntimeconfig.cache
+D:\Educational & Miscellaneous\Programming\.Programming Advices\.Projects\Simple Text Editor\obj\Debug\net8.0-windows\ref\Simple Text Editor.dll
